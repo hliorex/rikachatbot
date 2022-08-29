@@ -1,4 +1,4 @@
-bot_token = "1892188614:AAEDS0cguutod2WkPFHdHecSVeu2DMRAzZ0" # yourbot token
+bot_token = "5017290604:AAGlN5f-MYNvBArwSRRDmDlo0yK5n5ZCG8c" # yourbot token
 ARQ_API_KEY = "XQYJAL-HTSZIK-YALWDS-TJPWMO-ARQ" # Get this from @ARQBot
 api_id = 6469237 # your api id
 api_hash = "aaaacf752e28564b49714c7ad51fd48b" # your apihash
